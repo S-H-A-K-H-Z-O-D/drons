@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "vacancy": "Vacancy",
+    "experience": "Experience",
+    "phoneNumber": "(+998) 99 838 29 27"
+  },
+  "hero": {
+    "title": "Provides innovative solutions",
+    "startBtn": "Let's start",
+    "connectBtn": "Connect"
+  },
+  "about": {
+    "title": "About Us",
+    "text1.1": "We ",
+    "text1.2": "Scientech Solution",
+    "text1.3": " deliver technology solutions.",
+    "text2": "We are a flexible, innovative, responsive and entrepreneurial IT company with 10+ years of experience in Germany.",
+    "text3": "In 2022 we have established an entity in Tashkent -Scientech Solution.",
+    "text4": "We structure our businesses around the needs of our customers and provide only those central services which are essential to our growth.",
+    "clients": "Clients",
+    "projects": "Projects",
+    "technologies": "Technologies",
+    "experience": "Experience"
+  },
+  "services": {
+    "title": "Services",
+    "dataTitle1": "Application development",
+    "dataTitle2": "Cloud computing",
+    "dataTitle3": "Test  automation",
+    "dataTitle4": "A Data analytics & Visualisation",
+    "dataTitle5": "Big data and AI",
+    "dataTitle6": "IT consulting"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "text1": "The project involved designing a landing page for Uzbek startups. We conducted thorough research, analyzed\n            successful landing pages, and developed a wireframe based on our findings. After multiple iterations, we\n            created a visually appealing and user-friendly design. The page was optimized for SEO and extensively tested\n            for optimal performance. The result is a dynamic and informative landing page that effectively showcases\n            Uzbek startups.",
+    "text2": "IT-Park Uzbekistan Startup Base Portal",
+    "text3": "JK Trockenbau German construction company website",
+    "text4": "We designed a landing page for a German construction company by conducting thorough research, developing a strategic plan, and creating a visually appealing layout with compelling content. The final design is responsive and effectively represents the company to attract potential clients.",
+    "text5": "Digitalization of Wind Energy Systems and Processes",
+    "text6": "We designed a landing page for the digitalization of wind energy systems and processes. Through in-depth research, we developed a visually engaging layout that highlights the benefits of digitalization in improving efficiency and sustainability. The landing page was optimized for seamless performance across devices, effectively conveying the value of digitalization in the wind energy sector.",
+    "text7": "Web site for co-working zone",
+    "text8": "We successfully completed a project to design a website for a company that owns a coworking zone. Through market research and competitor analysis, we developed a visually appealing and user-friendly layout that effectively showcases the coworking spaces and amenities. The website is optimized for responsiveness and offers engaging content to attract potential clients.",
+    "text9": "Development of Digital Maintenance Dashboard for Aircraft Parts",
+    "text10": "We designed a landing page for the digitalization of wind energy systems and processes. Through in-depth research, we developed a visually engaging layout that highlights the benefits of digitalization in improving efficiency and sustainability. The landing page was optimized for seamless performance across devices, effectively conveying the value of digitalization in the wind energy sector.",
+    "text11": "See more"
+  },
+  "register": {
+    "title": "Leave your message and we’ll contact you back",
+    "connectBtn": "Connect",
+    "name": "name",
+    "email": "email",
+    "massage": "your message",
+    "phone_number" : "phone number"
+  },
+  "vacancies": {
+    "title": "Vacancies",
+    "vacant1": "Frontend — VueJS, Javascript",
+    "vacant2": "Android Application Programmer",
+    "vacant3": "UI/UX designer",
+    "vacant4": "Strong Junior programmer",
+    "vacant5": "SysAdmin - system administrator",
+    "vacant6": "Flutter - developer",
+    "vacant7": "Backtend developer"
+  },
+  "footer": {
+    "linkedIn": "Connect with us",
+    "email": "contact@scientech-solution.uz",
+    "location": "Tepa Masjid 4a, M.Ulugbek district, Tashkent 100164",
+    "home": "Home",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "experience": "Experience",
+    "copyright": "Copyright © 2023, Toshkent. All Rights Reserved."
+  }
+}

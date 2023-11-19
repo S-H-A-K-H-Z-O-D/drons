@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "home": "Uy",
+    "aboutUs": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "vacancy": "Vakansiya",
+    "experience": "Tajriba",
+    "phoneNumber": "(+998) 99 838 29 27"
+  },
+  "hero": {
+    "title": "Innovatsion yechimlarini taqdim etadi",
+    "startBtn": "Qani boshladik",
+    "connectBtn": "Bog'lanish"
+  },
+  "about": {
+    "title": "Biz Haqimizda",
+    "text1.1": "Biz ",
+    "text1.2": "Scientech Solution",
+    "text1.3": " texnologik yechimlarni taqdim etish.",
+    "text2": "Biz Germaniyada 10+ yillik tajribaga ega moslashuvchan, innovatsion va tezkor tadbirkor IT kompaniyasimiz.",
+    "text3": "2022 yilda biz Toshkentda Scientech Solution korxonasini tashkil etdik.",
+    "text4": "Biz o'z biznesimizni mijozlarimizning ehtiyojlari asosida tuzamiz va faqat o'sishimiz uchun muhim bo'lgan markaziy xizmatlarni taqdim etamiz.",
+    "clients": "Mijozlar",
+    "projects": "Loyihalar",
+    "technologies": "Texnologiyalar",
+    "experience": "Tajriba"
+  },
+  "services": {
+    "title": "Xizmatlar",
+    "dataTitle1": "Ilovani ishlab chiqish",
+    "dataTitle2": "Bulutli hisoblash",
+    "dataTitle3": "Sinovni avtomatlashtirish",
+    "dataTitle4": "Ma'lumotlarni tahlil qilish va vizualizatsiya",
+    "dataTitle5": "Katta ma'lumotlar va AI",
+    "dataTitle6": "IT konsalting"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "text1": "Loyiha o‘zbek startaplari uchun landing page dizaynini o‘z ichiga olgan. Biz chuqur izlanishlar olib bordik, muvaffaqiyatli ochilish sahifalarini tahlil qildik va topilmalarimiz asosida simli ramka ishlab chiqdik. Ko'p takrorlashdan so'ng biz vizual tarzda jozibali va foydalanuvchilarga qulay dizayn yaratdik. Sahifa SEO uchun optimallashtirilgan va optimal ishlash uchun keng qamrovli sinovdan o'tgan. Natijada o‘zbek startaplarini samarali namoyish etuvchi dinamik va ma’lumot beruvchi ochilish sahifasi paydo bo‘ldi.",
+    "text2": "IT-Park Uzbekistan Startap bazasi portali",
+    "text3": "JK Trockenbau nemis qurilish kompaniyasi veb-sayti",
+    "text4": "Biz nemis qurilish kompaniyasi uchun puxta tadqiqot olib borish, strategik rejani ishlab chiqish va jozibali mazmunga ega vizual jozibador maket yaratish orqali ochilish sahifasini yaratdik. Yakuniy dizayn sezgir va potentsial mijozlarni jalb qilish uchun kompaniyani samarali ifodalaydi.",
+    "text5": "Shamol energiyasi tizimlari va jarayonlarini raqamlashtirish",
+    "text6": "Biz shamol energiyasi tizimlari va jarayonlarini raqamlashtirish uchun ochilish sahifasini ishlab chiqdik. Chuqur izlanishlar natijasida biz samaradorlik va barqarorlikni oshirishda raqamlashtirishning afzalliklarini ta'kidlaydigan vizual jozibali sxemani ishlab chiqdik. Ochilish sahifasi shamol energetikasi sohasida raqamlashtirishning ahamiyatini samarali etkazgan holda qurilmalarda uzluksiz ishlash uchun optimallashtirilgan.",
+    "text7": "Hamkorlik zonasi uchun veb-sayt",
+    "text8": "Biz kovorking zonasiga ega bo'lgan kompaniya uchun veb-saytni loyihalash loyihasini muvaffaqiyatli yakunladik. Bozor tadqiqotlari va raqobatchilarni tahlil qilish orqali biz kovorking maydonlari va qulayliklarini samarali namoyish etadigan vizual jozibali va foydalanuvchilarga qulay tartibni ishlab chiqdik. Veb-sayt sezgirlik uchun optimallashtirilgan va potentsial mijozlarni jalb qilish uchun qiziqarli kontentni taklif qiladi.",
+    "text9": "Samolyot qismlari uchun raqamli texnik xizmat ko'rsatish panelini ishlab chiqish",
+    "text10": "Biz shamol energiyasi tizimlari va jarayonlarini raqamlashtirish uchun ochilish sahifasini ishlab chiqdik. Chuqur izlanishlar natijasida biz samaradorlik va barqarorlikni oshirishda raqamlashtirishning afzalliklarini ta'kidlaydigan vizual jozibali sxemani ishlab chiqdik. Ochilish sahifasi shamol energetikasi sohasida raqamlashtirishning ahamiyatini samarali etkazgan holda qurilmalarda uzluksiz ishlash uchun optimallashtirilgan.",
+    "text11": "Batafsil ma'lumot"
+  },
+  "register": {
+    "title": "Xabaringizni qoldiring va biz siz bilan qayta bog'lanamiz",
+    "connectBtn": "Bog'lash",
+    "name": "ism",
+    "email": "email",
+    "massage": "xabaringiz",
+    "phone_number" : "telefon raqami"
+  },
+  "vacancies": {
+    "title": "Vakansiyalar",
+    "vacant1": "Frontend — VueJS, Javascript",
+    "vacant2": "Android Application Dasturchi",
+    "vacant3": "UI/UX dizayner",
+    "vacant4": "Strong Junior dasturchi",
+    "vacant5": "SysAdmin - system adminstrator",
+    "vacant6": "Flutter - dasturchi",
+    "vacant7": "Backtend dasturchi"
+  },
+  "footer": {
+    "linkedIn": "Biz bilan bog'laning",
+    "email": "contact@scientech-solution.uz",
+    "location": "Tepa Masjid 4a, M.Ulugbek district, Tashkent 100164",
+    "home": "Uy",
+    "aboutUs": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "experience": "Tajriba",
+    "copyright": "Copyright © 2023, Toshkent. Barcha huquqlar himoyalangan."
+  }
+}
